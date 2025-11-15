@@ -10,6 +10,7 @@ cd laravel-blog-app
 
 composer install
 npm install
+npm run build
 npm run dev
 
 # 3.Create .env file:
