@@ -3,7 +3,7 @@ Blog App
 
 # 1. Clone the Repository:
 
-
+git clone https://github.com/athulrajpb007/laravel-blog-app.git
 cd laravel-blog-app
 
 # 2. Install Dependencies
